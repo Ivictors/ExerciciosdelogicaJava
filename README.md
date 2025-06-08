@@ -1,4 +1,4 @@
-# ExerciciosdelogicaJava
+# Exercicios de logica Java
 Este repositório contém uma série de exercícios de lógica resolvidos em Java. O objetivo é aprimorar habilidades de programação, estrutura de dados e pensamento computacional.
 
 ## 📌 Conteúdo
